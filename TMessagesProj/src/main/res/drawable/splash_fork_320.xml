@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- iOS style Tele iOS splash logo: glossy Telegram x Apple tile with soft
+     faded edges so it blends into both light and dark window backgrounds -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="192dp"
+        android:height="192dp"
+        android:gravity="center"
+        android:drawable="@drawable/splash_teleios_logo"/>
+</layer-list>
